@@ -1,3 +1,5 @@
+
+
 # plantz
 An example project and code to run a greenhouse (or maybe a local food revolution ...).
 
@@ -162,7 +164,7 @@ Now we want to create the water flow for the setup.
 <img src="/assets/img/IMG_4515.JPG" alt="hi" class="inline"/>
 
 1. Place the deep water culture IBCs on the side of you preference.
-2. Place the cider blocks in groups of four such that you can place the IBCs with original bottoms on them.
+2. Place the cinder blocks in groups of four such that you can place the IBCs with original bottoms on them.
 3. Determine your water route
 4. Use the holesaw to cut the desired holes
 5. Install the uniseals
